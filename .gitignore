@@ -1,0 +1,7 @@
+__pycache__/
+.cache/
+.pytest_cache/
+.coverage
+parser.out
+parsetab.py
+lispy_resposta.py
